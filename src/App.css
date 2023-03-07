@@ -1,0 +1,7 @@
+* {
+    font-family: system-ui, sans-serif;
+}
+
+.h100 {
+    height: calc(100vh - 80px);
+}
